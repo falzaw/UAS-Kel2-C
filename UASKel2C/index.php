@@ -82,6 +82,10 @@
                         <a href="https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO" target="blank">
                             <img src="img/sptf.png"></a>
                     </li>
+                    <li>
+                        <a href="https://www.unsrat.ac.id/" target="blank">
+                        <img src="img/logounsrat.png"></a>
+                    </li>
                 </ul>
             </div>
         </footer>
